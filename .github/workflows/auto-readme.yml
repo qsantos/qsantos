@@ -1,0 +1,21 @@
+name: Auto README
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '42 3 * * *'
+jobs:
+  main:
+    name: Main job
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: |
+          set -Eeuo pipefail
+          git config user.name "Quentin Santos"
+          git config user.email "qsantos@qsantos.fr"
+          python3 generate-readme
+          git add README.md
+          git commit --message "Automatically update README" || exit 0
+          git push origin main
