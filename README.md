@@ -16,11 +16,11 @@ I am also a Stack Overflow contributor and top 0.2 % on CodinGame.
 
 # Latest articles:
 
+- 2023-10-02 [Learning Morse with Koch](https://qsantos.fr/2023/10/02/learning-morse-with-koch/)
 - 2023-09-25 [Tiny Docker Containers with Rust](https://qsantos.fr/2023/09/25/tiny-docker-containers-with-rust/)
 - 2023-09-22 [Koch’s Dissertation on Learning Morse Code](https://qsantos.fr/2023/09/22/koch-dissertation-on-learning-morse-code/)
 - 2023-09-03 [Where to Start with Rust](https://qsantos.fr/2023/09/03/where-to-start-with-rust/)
 - 2023-09-03 [Client-Side Password Hashing](https://qsantos.fr/2023/09/03/client-side-password-hashing/)
-- 2023-07-09 [Strongly Typed Web Apps](https://qsantos.fr/2023/07/09/strongly-typed-web-apps/)
 
 ```
  X
