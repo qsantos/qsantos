@@ -16,11 +16,11 @@ I am also a Stack Overflow contributor and top 0.2 % on CodinGame.
 
 # Latest articles:
 
+- 2023-11-08 [The Secret to a Green CI: Efficient Pre-commit Hooks with checkout-index](https://qsantos.fr/2023/11/08/the-secret-to-a-green-ci-efficient-pre-commit-hooks-with-checkout-index/)
 - 2023-10-02 [Learning Morse with Koch](https://qsantos.fr/2023/10/02/learning-morse-with-koch/)
 - 2023-09-25 [Tiny Docker Containers with Rust](https://qsantos.fr/2023/09/25/tiny-docker-containers-with-rust/)
 - 2023-09-22 [Koch’s Dissertation on Learning Morse Code](https://qsantos.fr/2023/09/22/koch-dissertation-on-learning-morse-code/)
 - 2023-09-03 [Where to Start with Rust](https://qsantos.fr/2023/09/03/where-to-start-with-rust/)
-- 2023-09-03 [Client-Side Password Hashing](https://qsantos.fr/2023/09/03/client-side-password-hashing/)
 
 ```
  X
