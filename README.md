@@ -5,7 +5,7 @@
 - **Hobbies:** competitive programming 👨‍💻, amateur radio 📻, speedcubing 🧊
 
 For an overview of my main personal projects, visit my [portfolio](https://qsantos.fr/portfolio/).
-I am also a Stack Overflow contributor and top 0.2 % on CodinGame.
+I am also a Stack Overflow contributor and top 0.1 % on CodinGame.
 
 <a href="https://www.codingame.com/profile/9f252c61454ad1a933ee71419c83cfff3871021">
     <img src="CodinGame_Logo.svg" alt="CodinGame logo" width="200" />
