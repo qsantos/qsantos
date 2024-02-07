@@ -20,14 +20,14 @@ def get_articles() -> list[str]:
 def generate_readme(latest_articles: str) -> None:
     with open('README.md.template') as f:
         template = f.read()
-    contents = template.replace('{{LATEST_ARTICLES}}', latest_articles)
+    contents = template.replace('*{{LATEST_ARTICLES}}', latest_articles)
     with open('README.md', 'w') as f:
         f.write(contents)
 
 
 def main() -> None:
     latest_articles = '\n'.join(
-        f'- {pubDate} [{title}]({link})'
+        f'- `{pubDate}` [{title}]({link})'
         for title, link, pubDate in islice(get_articles(), 5)
     )
     generate_readme(latest_articles)
