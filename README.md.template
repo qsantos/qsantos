@@ -1,8 +1,8 @@
 .... . .-.. .-.. --- / .-- --- .-. .-.. -.. -.-.--
 
-- **Technologies:** Rust 🦀, Python 🐍, React ⚛, C/C++ 💥
-- **Languages:** French (native) 🇫🇷 , English (fluent) 🇺🇸, Japanese (conversational) 🇯🇵
-- **Hobbies:** competitive programming 👨‍💻, amateur radio 📻, speedcubing 🧊
+- **Technologies:** 🦀 Rust, 🐍 Python, ⚛ React, 💥 C/C++
+- **Languages:** 🇫🇷 French (native), 🇺🇸 English (fluent) , 🇯🇵 Japanese (conversational)
+- **Hobbies:** 👨‍💻 competitive programming, 📻 amateur radio, 🧊 speedcubing
 
 For an overview of my main personal projects, visit my [portfolio](https://qsantos.fr/portfolio/).
 I am also a Stack Overflow contributor and top 0.1 % on CodinGame.
