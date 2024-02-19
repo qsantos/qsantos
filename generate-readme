@@ -20,7 +20,7 @@ def get_articles() -> list[str]:
 def generate_readme(latest_articles: str) -> None:
     with open('README.md.template') as f:
         template = f.read()
-    contents = template.replace('*{{LATEST_ARTICLES}}', latest_articles)
+    contents = template.replace('{{LATEST_ARTICLES}}', latest_articles)
     with open('README.md', 'w') as f:
         f.write(contents)
 
