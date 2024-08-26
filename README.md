@@ -16,11 +16,11 @@ I am also a Stack Overflow contributor and top 0.1 % on CodinGame.
 
 # Latest articles:
 
+- `2024-08-25` [Linux Pipes are Slow](https://qsantos.fr/2024/08/25/linux-pipes-are-slow/)
 - `2024-05-01` [Git Super-Power: The Three-Way Merge](https://qsantos.fr/2024/05/01/git-super-power-the-three-way-merge/)
 - `2024-04-28` [Merging Responsibly](https://qsantos.fr/2024/04/28/merging-responsibly/)
 - `2024-02-24` [ViHN: Vim for Hacker News](https://qsantos.fr/2024/02/24/vihn-vim-for-hacker-news/)
 - `2024-01-13` [Rewriting NHK Easier in Rust](https://qsantos.fr/2024/01/13/rewriting-nhk-easier-in-rust/)
-- `2024-01-04` [Dynamic Programming is not Black Magic](https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/)
 
 ```
  X
