@@ -16,11 +16,11 @@ I am also a Stack Overflow contributor and top 0.1 % on CodinGame.
 
 # Latest articles:
 
+- `2025-04-10` [How to use “real” UART](https://qsantos.fr/2025/04/10/how-to-use-real-uart/)
 - `2025-03-03` [IndexedDB is Weird](https://qsantos.fr/2025/03/03/indexeddb-is-weird/)
 - `2025-01-01` [Rust Gotcha: last() on  DoubleEndedIterator](https://qsantos.fr/2025/01/01/rust-gotcha-last-on-doubleendediterator/)
 - `2024-12-09` [Rust Strings for C Programmers](https://qsantos.fr/2024/12/09/rust-strings-for-c-programmers/)
 - `2024-12-04` [You can move !Unpin](https://qsantos.fr/2024/12/04/you-can-move-unpin/)
-- `2024-11-11` [On-Die ECC](https://qsantos.fr/2024/11/11/on-die-ecc/)
 
 ```
  X
