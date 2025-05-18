@@ -16,11 +16,11 @@ I am also a Stack Overflow contributor and top 0.1 % on CodinGame.
 
 # Latest articles:
 
+- `2025-05-17` [The ESP32-S2 reset pin](https://qsantos.fr/2025/05/17/the-esp32-s2-reset-pin/)
 - `2025-05-15` [Talking to Espressif’s Bootloader](https://qsantos.fr/2025/05/15/talking-to-espressifs-bootloader/)
 - `2025-05-09` [Espressif’s Automatic Reset](https://qsantos.fr/2025/05/09/espressifs-automatic-reset/)
 - `2025-05-03` [Linux always toggles DTR & RTS](https://qsantos.fr/2025/05/03/linux-always-toggles-dtr-rts/)
 - `2025-05-01` [Arduino’s Automatic Reset](https://qsantos.fr/2025/05/01/arduino-automatic-reset/)
-- `2025-04-10` [How to use “real” UART](https://qsantos.fr/2025/04/10/how-to-use-real-uart/)
 
 ```
  X
