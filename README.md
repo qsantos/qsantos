@@ -16,11 +16,11 @@ I am also a Stack Overflow contributor and top 0.1 % on CodinGame.
 
 # Latest articles:
 
+- `2025-07-06` [Overanalyzing a minor quirk of Espressif’s reset circuit](https://qsantos.fr/2025/07/06/overanalyzing-a-minor-quirk-of-espressifs-reset-circuit/)
 - `2025-07-02` [The missing part of Espressif’s reset circuit](https://qsantos.fr/2025/07/02/the-missing-part-of-espressifs-reset-circuit/)
-- `2025-06-28` [Reproducing Espressif’s  reset circuit](https://qsantos.fr/2025/06/28/reproducing-espressifs-reset-circuit/)
+- `2025-06-28` [Reproducing Espressif’s reset circuit](https://qsantos.fr/2025/06/28/reproducing-espressifs-reset-circuit/)
 - `2025-05-17` [The ESP32-S2 reset pin](https://qsantos.fr/2025/05/17/the-esp32-s2-reset-pin/)
 - `2025-05-15` [Talking to Espressif’s Bootloader](https://qsantos.fr/2025/05/15/talking-to-espressifs-bootloader/)
-- `2025-05-09` [Espressif’s Automatic Reset](https://qsantos.fr/2025/05/09/espressifs-automatic-reset/)
 
 ```
  X
