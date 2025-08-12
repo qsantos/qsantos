@@ -16,11 +16,11 @@ I am also a Stack Overflow contributor and top 0.1 % on CodinGame.
 
 # Latest articles:
 
+- `2025-08-11` [The serial TX path seems to be down](https://qsantos.fr/2025/08/11/the-serial-tx-path-seems-to-be-down/)
 - `2025-07-06` [Transistors in reverse and redundant circuits](https://qsantos.fr/2025/07/06/transistors-in-reverse-and-redundant-circuits/)
 - `2025-07-02` [The missing part of Espressif’s reset circuit](https://qsantos.fr/2025/07/02/the-missing-part-of-espressifs-reset-circuit/)
 - `2025-06-28` [Reproducing Espressif’s reset circuit](https://qsantos.fr/2025/06/28/reproducing-espressifs-reset-circuit/)
 - `2025-05-17` [The ESP32-S2 reset pin](https://qsantos.fr/2025/05/17/the-esp32-s2-reset-pin/)
-- `2025-05-15` [Talking to Espressif’s Bootloader](https://qsantos.fr/2025/05/15/talking-to-espressifs-bootloader/)
 
 ```
  X
