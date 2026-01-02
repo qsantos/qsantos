@@ -16,11 +16,11 @@ I am also a Stack Overflow contributor and top 0.1 % on CodinGame.
 
 # Latest articles:
 
+- `2026-01-01` [The RP2350-USB-A cannot see devices disconnect](https://qsantos.fr/2026/01/01/the-rp2350-usb-a-cannot-see-devices-disconnect/)
 - `2025-11-20` [Fixing the RP2350-USB-A not working as USB host](https://qsantos.fr/2025/11/21/fixing-the-rp2350-usb-a-not-working-as-usb-host/)
 - `2025-08-11` [The serial TX path seems to be down](https://qsantos.fr/2025/08/11/the-serial-tx-path-seems-to-be-down/)
 - `2025-07-06` [Transistors in reverse and redundant circuits](https://qsantos.fr/2025/07/06/transistors-in-reverse-and-redundant-circuits/)
 - `2025-07-02` [The missing part of Espressif’s reset circuit](https://qsantos.fr/2025/07/02/the-missing-part-of-espressifs-reset-circuit/)
-- `2025-06-28` [Reproducing Espressif’s reset circuit](https://qsantos.fr/2025/06/28/reproducing-espressifs-reset-circuit/)
 
 ```
  X
