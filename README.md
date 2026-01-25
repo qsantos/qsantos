@@ -16,11 +16,11 @@ I am also a Stack Overflow contributor and top 0.1 % on CodinGame.
 
 # Latest articles:
 
+- `2026-01-24` [Asynchronous I²C in C](https://qsantos.fr/2026/01/24/asynchronous-i%c2%b2c-in-c/)
 - `2026-01-07` [(No) alternatives to the RP2350-USB-A](https://qsantos.fr/2026/01/07/no-alternatives-to-the-rp2350-usb-a/)
 - `2026-01-01` [The RP2350-USB-A cannot see devices disconnect](https://qsantos.fr/2026/01/01/the-rp2350-usb-a-cannot-see-devices-disconnect/)
 - `2025-11-20` [Fixing the RP2350-USB-A not working as USB host](https://qsantos.fr/2025/11/21/fixing-the-rp2350-usb-a-not-working-as-usb-host/)
 - `2025-08-11` [The serial TX path seems to be down](https://qsantos.fr/2025/08/11/the-serial-tx-path-seems-to-be-down/)
-- `2025-07-06` [Transistors in reverse and redundant circuits](https://qsantos.fr/2025/07/06/transistors-in-reverse-and-redundant-circuits/)
 
 ```
  X
