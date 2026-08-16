@@ -16,11 +16,11 @@ I am also a Stack Overflow contributor and top 0.1 % on CodinGame.
 
 # Latest articles:
 
+- `2026-08-15` [A few spikes in Pico cos()](https://qsantos.fr/2026/08/15/a-few-spikes-in-pico-cos/)
 - `2026-05-15` [The RP2350 is too fast](https://qsantos.fr/2026/05/15/the-rp2350-is-too-fast/)
 - `2026-01-24` [Asynchronous I²C in C](https://qsantos.fr/2026/01/24/asynchronous-i%c2%b2c-in-c/)
 - `2026-01-07` [(No) alternatives to the RP2350-USB-A](https://qsantos.fr/2026/01/07/no-alternatives-to-the-rp2350-usb-a/)
 - `2026-01-01` [The RP2350-USB-A cannot see devices disconnect](https://qsantos.fr/2026/01/01/the-rp2350-usb-a-cannot-see-devices-disconnect/)
-- `2025-11-20` [Fixing the RP2350-USB-A not working as USB host](https://qsantos.fr/2025/11/21/fixing-the-rp2350-usb-a-not-working-as-usb-host/)
 
 ```
  X
