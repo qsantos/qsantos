@@ -16,11 +16,11 @@ I am also a Stack Overflow contributor and top 0.1 % on CodinGame.
 
 # Latest articles:
 
+- `2026-11-20` [Hacking radiators for fun and no profit](https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/)
+- `2026-11-20` [The Acova / Zehnder ComfoRF radiator protocol](https://qsantos.fr/2026/11/20/the-acova-zehnder-comforf-radiator-protocol/)
 - `2026-11-19` [Making a dumb TV just smart enough](https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/)
 - `2026-09-17` [The USB interposer](https://qsantos.fr/2026/09/17/the-usb-interposer/)
 - `2026-09-06` [My first PCB: AIC3204 eval board](https://qsantos.fr/2026/09/06/my-first-pcb-aic3204-eval-board/)
-- `2026-08-15` [A few spikes in Pico cos()](https://qsantos.fr/2026/08/15/a-few-spikes-in-pico-cos/)
-- `2026-05-15` [The RP2350 is too fast](https://qsantos.fr/2026/05/15/the-rp2350-is-too-fast/)
 
 ```
  X
